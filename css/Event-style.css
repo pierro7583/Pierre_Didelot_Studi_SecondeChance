@@ -1,4 +1,6 @@
-body{margin-top:20px;}
+body{
+    background-color: #93b2fb;
+}
 .events_area {
     padding: 130px 0 100px;
     background: #93b2fb;
@@ -73,8 +75,8 @@ body{margin-top:20px;}
 .single_event .event_details {
     background: rgba(0, 35, 71, 0.5);
     position: absolute;
-    top: 0px;
-    right: 0px;
+    top: 0;
+    right: 0;
     width: 275px;
     padding: 30px 25px;
     color: #ffffff;
@@ -97,7 +99,7 @@ body{margin-top:20px;}
     font-size: 14px;
 }
 .single_event .event_details .time-location p {
-    margin-bottom: 0px;
+    margin-bottom: 0;
 }
 .single_event .event_details .time-location p span {
     color: #ffffff;

@@ -2,9 +2,6 @@ body{
     background-color: #93b2fb;
 }
 
-
-
-
 #title {
     background-color: #94B3FD;
     font-family: 'Ubuntu', sans-serif;
@@ -16,10 +13,6 @@ body{
 
 }
 /*Navigation Bar*/
-
-.navbar{
-
-}
 
 .navbar-brand{
     font-family: 'Ubuntu',sans-serif;
@@ -53,15 +46,7 @@ body{
     border-radius:1rem;
     margin-top: 4%;
 }
-.contact-image{
-    text-align: center;
-}
-.contact-image img{
-    border-radius: 6rem;
-    width: 11%;
-    margin-top: -3%;
-    transform: rotate(29deg);
-}
+
 .contact-form form{
     padding: 14%;
 
